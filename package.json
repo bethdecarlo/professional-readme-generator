@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4",
+    "inquirerer": "^0.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethdecarlo/professional-readme-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bethdecarlo/professional-readme-generator/issues"
+  },
+  "homepage": "https://github.com/bethdecarlo/professional-readme-generator#readme"
+}
